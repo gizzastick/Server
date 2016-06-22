@@ -25,6 +25,11 @@ It has been tested with Joomla, Wordpress, Wp multisite, Prestashop, SMF 2 not s
 
 you will also need a temp and tmp folder in windows or you will get erors, so just create a windows/ temp and a windows/tmp folder/ one of these will exist and the other must be created...
 
+hmm this site will not let me upload a 200mb file so I have put it here
+
+https://sourceforge.net/projects/apache-usb-server/
+
+
 Enjoy 
 
 John
